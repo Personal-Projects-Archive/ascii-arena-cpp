@@ -1,0 +1,36 @@
+# Cache et options Visual Studio
+.vs/
+
+# Fichiers propres à l'utilisateur / à la machine
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Résultats de compilation
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Fichiers binaires et intermédiaires
+*.exe
+*.pdb
+*.idb
+*.ilk
+*.obj
+*.tlog
+*.log
+*.recipe
+*.lastbuildstate
+
+# Précompilé
+*.pch
+*.gch
+*.ipch
